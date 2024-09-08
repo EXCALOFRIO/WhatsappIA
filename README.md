@@ -26,7 +26,7 @@ google-chrome --remote-debugging-port=9222 --user-data-dir="C:/ChromeDevUser"
 https://web.whatsapp.com/
 ```
 
-## ISNTALA LAS DEPENDENCIAS
+## INSTALA LAS DEPENDENCIAS
 
 ```bash
 pip install -r requirements.txt
